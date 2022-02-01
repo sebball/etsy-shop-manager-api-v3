@@ -6,7 +6,6 @@ auth_or_token = input("authorization or token?")
 
 
 client_id = "0fy9vcej455f6xqokuwc0151"
-client_secret = "bczop94973"
 scope = "transactions_r transactions_w"
 state = "superstate"
 redirect_uri = "https://bad-lionfish-72.loca.lt"
